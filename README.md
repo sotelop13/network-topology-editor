@@ -31,7 +31,7 @@ This tool is especially useful for students, educators, and network researchers 
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/sotelop13/Network_Topology_Editor.git
+    git clone https://github.com/sotelop13/network-topology-editor.git
     cd network-topology-editor
     ```
 
