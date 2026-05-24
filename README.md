@@ -94,8 +94,8 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Authors
 
-- **Pablo Sotelo Torres**  
-  [LinkedIn](https://www.linkedin.com/in/sotelop13/) 
+- **Pablo Sotelo**  
+  <!-- [LinkedIn](https://www.linkedin.com/in/sotelop13/)
   <!-- [Resume](https://your-resume-link.com) -->
 - **Luis Fernando Garza Garcia**
 - **Ivan M. Mendoza**
